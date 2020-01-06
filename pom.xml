@@ -4,7 +4,7 @@
     <parent>
         <groupId>edu.byu.custom-code</groupId>
         <artifactId>parent</artifactId>
-        <version>1.2019-05-06</version>
+        <version>1.2020-01-03</version>
     </parent>
 
     <groupId>edu.byu.sparkjava</groupId>
